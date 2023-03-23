@@ -1,7 +1,7 @@
 # MITW
 Starting with a full time 5 month course on Data Science & AI. 
-5 months of Jupyter notebooks with subjects as:
-  Linear Regression,
+5 months of Jupyter notebooks with subjects as:\n
+  Linear Regression,\n
   Logistic Regression,
   KMeans,
   K-nearest neighbours,
